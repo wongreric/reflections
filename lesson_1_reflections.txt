@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It made it easier to see which lines were changed between the versions instead of trying to scan both side by side. This would be super helpful, especially, when the files have a lot of lines of code.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+You can easily go back and correct a bug. You can see the progression how you go to the final code to apply to future projects. You can teach people and people can see your logic behind the code without you having to explain.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The pros are you get to save versions based on logical changes instead of random intervals. This will make reviewing changes a lot easier to understand and fix. The cons are you have to remember to make commits are the appropriate time.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is designed specifically for coding projects that most often invovle repositories of several files per project. 
+
+How can you use the commands git log and git diff to view the history of files?
+git log will show you a list of all the commits and a note describing the change in each commit. You can also find the id's for each commit and use the git diff command to compare different commits.
+
+How might using version control make you more confident to make changes that could break something?
+Because you can easily go back and checkout a previous version and remove any bugs you introduced. It's also a great tool to compare older and newer versions so you can tell exactly what caused the problem if you're making a lot of changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I need practice on the different commands to get comfortable with them.
+
+
+
