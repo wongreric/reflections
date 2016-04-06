@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+The hidden git constructor files are added to your directory to help track all the commits and I assume other things as well.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's a space between the two. It holds files that you eventually want to commit to the reposity from your directory. Its value could be that it prevents you from committing something before you're really ready to and it allows you to pick and choose which files are committed. 
