@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+You'll want to use a remote repository especially when you're working in a team on the same code. It might be a good idea to always use a remote repository, though, just in case somethign happens to your local machine.
